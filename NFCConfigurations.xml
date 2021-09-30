@@ -1,0 +1,18 @@
+﻿<ArrayOfNFCConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NFCConfiguration>
+    <Name>04:3C:F1:52:78:3F:81</Name>
+    <Url>https://www.google.se/</Url>
+  </NFCConfiguration>
+  <NFCConfiguration>
+    <Name>04:16:C7:52:78:3F:81</Name>
+    <Url>https://www.jamtli.com/</Url>
+  </NFCConfiguration>
+  <NFCConfiguration>
+    <Name>04:8C:EB:8A:6F:40:80</Name>
+    <Url>https://www.jamtli.com/om-jamtli/</Url>
+  </NFCConfiguration>
+  <NFCConfiguration>
+    <Name>04:85:D4:52:78:3F:80</Name>
+    <Url>https://www.jamtli.com/samlingar-kulturmiljo/samlingar/fotosamlingar/</Url>
+  </NFCConfiguration>
+</ArrayOfNFCConfiguration>

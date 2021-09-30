@@ -1,0 +1,18 @@
+﻿<ArrayOfQRCodeConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QRCodeConfiguration>
+    <Code>Geopark Midsweden QR Code 1</Code>
+    <Url>https://www.google.se/</Url>
+  </QRCodeConfiguration>
+  <QRCodeConfiguration>
+    <Code>Geopark Midsweden QR Code 2</Code>
+    <Url>https://www.jamtli.com/</Url>
+  </QRCodeConfiguration>
+  <QRCodeConfiguration>
+    <Code>Geopark Midsweden QR Code 3</Code>
+    <Url>https://www.jamtli.com/om-jamtli/</Url>
+  </QRCodeConfiguration>
+  <QRCodeConfiguration>
+    <Code>Geopark Midsweden QR Code 4</Code>
+    <Url>https://www.jamtli.com/samlingar-kulturmiljo/samlingar/fotosamlingar/</Url>
+  </QRCodeConfiguration>
+</ArrayOfQRCodeConfiguration>
