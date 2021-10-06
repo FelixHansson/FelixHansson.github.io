@@ -1,7 +1,8 @@
 ﻿<ArrayOfNFCConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NFCConfiguration>
     <Name>04:3C:F1:52:78:3F:81</Name>
-    <Url>https://www.google.se/</Url>
+    <!--<Url>https://www.google.se/</Url>-->
+	<Url>https://ext-geoportal.lansstyrelsen.se/standard/?appid=f7055495ff9549ca8c1377966628f9ca&ampcustomquery=NV%20VicNatur%20Naturreservat,NVR_ID=2000902/</Url>
   </NFCConfiguration>
   <NFCConfiguration>
     <Name>04:16:C7:52:78:3F:81</Name>
